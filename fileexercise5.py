@@ -21,4 +21,4 @@ for line in fhand:
    
     print(words[1])
     count=count+1
-print(count)
+print ('There were %d lines in the file with From as the first word' %count )
